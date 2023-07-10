@@ -9,7 +9,8 @@ This is the report involving all the details and snapshots
 
 [report usn48&30.pdf](https://github.com/DIS25TTY/womansafetyapp/files/11999045/report.usn48.30.pdf)
 
-![WhatsApp Image 2023-06-25 at 18 36 14](https://github.com/DIS25TTY/womansafetyapp/assets/83459637/968a6889-b5a9-4458-b947-72e4a26ba45c)![WhatsApp Image 2023-06-25 at 18 36 12](https://github.com/DIS25TTY/womansafetyapp/assets/83459637/16f88bb5-7599-48d6-afda-d35854dacf60)
+![image](https://github.com/DIS25TTY/womansafetyapp/assets/83459637/a563c26c-f112-41da-b485-802e279c17a6)
+![WhatsApp Image 2023-06-25 at 18 36 12](https://github.com/DIS25TTY/womansafetyapp/assets/83459637/16f88bb5-7599-48d6-afda-d35854dacf60)
 
 
 
