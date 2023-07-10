@@ -9,6 +9,17 @@ This is the report involving all the details and snapshots
 
 [report usn48&30.pdf](https://github.com/DIS25TTY/womansafetyapp/files/11999045/report.usn48.30.pdf)
 
+![image](https://github.com/DIS25TTY/womansafetyapp/assets/83459637/a7b82d21-46b9-4e2f-a25d-b99b25c38cf5)
+![image](https://github.com/DIS25TTY/womansafetyapp/assets/83459637/e31ffa04-1116-42ed-bcbc-5ab87c25bc04)
+![image](https://github.com/DIS25TTY/womansafetyapp/assets/83459637/53b0f881-9f14-4c2e-8050-3b4771635552)
+![image](https://github.com/DIS25TTY/womansafetyapp/assets/83459637/c4889b20-649b-4497-8972-b4abad54ef6a)
+![image](https://github.com/DIS25TTY/womansafetyapp/assets/83459637/fe97b848-5979-4faa-8097-e4eadc2e2896)
+
+
+
+
+
+
 # Women Safety Application
 ## _Feel Safe Everywhere_
 
