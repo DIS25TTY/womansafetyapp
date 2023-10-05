@@ -1,7 +1,7 @@
 # womansafetyapp
 An Android Studio Development
 
-Below is the Presentation that we presented 
+Below is the Presentation that we presented for our mobile application development 
 
 [Mad PPT.pptx](https://github.com/DIS25TTY/womansafetyapp/files/11999060/Mad.PPT.pptx)
 
